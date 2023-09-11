@@ -38,8 +38,8 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white
+<img></td><td valign="top" width="33%">
+https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white</img>
 
 
 
