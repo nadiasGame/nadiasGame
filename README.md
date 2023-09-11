@@ -22,10 +22,11 @@
 
 
 ### Backend 
-</td></tr></table>  
+</td><td valign="top" width="33%"> 
 
-<br/>  
+
 ### Devops 
+</td><td valign="top" width="33%">
 
 
 ## Connect with me  
