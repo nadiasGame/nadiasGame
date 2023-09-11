@@ -1,23 +1,15 @@
 
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/nadiasGame/nadiasGame/assets/90767449/263708fe-8faa-4a47-a85a-5bb67477dfca
+" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I am Nadia</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
@@ -46,7 +38,9 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a> 
+  <a href="https://mantine.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a> 
+<img src="https://img.shields.io/badge/Mantine-white.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAxNjMgMTYzIj48cGF0aCBmaWxsPSIjMzM5QUYwIiBkPSJNMTYyLjE2MiA4MS41YzAtNDUuMDExLTM2LjMwMS04MS41LTgxLjA4LTgxLjVDMzYuMzAxIDAgMCAzNi40ODkgMCA4MS41IDAgMTI2LjUxIDM2LjMwMSAxNjMgODEuMDgxIDE2M3M4MS4wODEtMzYuNDkgODEuMDgxLTgxLjV6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTY1Ljk4MyA0My4wNDlhNi4yMzQgNi4yMzQgMCAwMC0uMzM2IDYuODg0IDYuMTQgNi4xNCAwIDAwMS42MTggMS43ODZjOS40NDQgNy4wMzYgMTQuODY2IDE3Ljc5NCAxNC44NjYgMjkuNTIgMCAxMS43MjYtNS40MjIgMjIuNDg0LTE0Ljg2NiAyOS41MmE2LjE0NSA2LjE0NSAwIDAwLTEuNjE2IDEuNzg2IDYuMjEgNi4yMSAwIDAwLS42OTQgNC42OTMgNi4yMSA2LjIxIDAgMDAxLjAyOCAyLjE4NiA2LjE1MSA2LjE1MSAwIDAwNi40NTcgMi4zMTkgNi4xNTQgNi4xNTQgMCAwMDIuMTc3LTEuMDM1IDUwLjA4MyA1MC4wODMgMCAwMDcuOTQ3LTcuMzloMTcuNDkzYzMuNDA2IDAgNi4xNzQtMi43NzIgNi4xNzQtNi4xOTRzLTIuNzYyLTYuMTk0LTYuMTc0LTYuMTk0aC05LjY1NWE0OS4xNjUgNDkuMTY1IDAgMDA0LjA3MS0xOS42OSA0OS4xNjcgNDkuMTY3IDAgMDAtNC4wNy0xOS42OTJoOS42NmMzLjQwNiAwIDYuMTczLTIuNzcxIDYuMTczLTYuMTk0IDAtMy40MjItMi43NjItNi4xOTMtNi4xNzMtNi4xOTNIODIuNTc0YTUwLjExMiA1MC4xMTIgMCAwMC03Ljk1Mi03LjM5NyA2LjE1IDYuMTUgMCAwMC00LjU3OC0xLjE1MyA2LjE4OSA2LjE4OSAwIDAwLTQuMDU1IDIuNDM4aC0uMDA2eiIvPjxwYXRoIGZpbGw9IiNmZmYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTU2LjIzNiA3OS4zOTFhOS4zNDIgOS4zNDIgMCAwMS42MzItMy42MDggOS4yNjIgOS4yNjIgMCAwMTEuOTY3LTMuMDc3IDkuMTQzIDkuMTQzIDAgMDEyLjk5NC0yLjA2MyA5LjA2IDkuMDYgMCAwMTcuMTAzIDAgOS4xNDUgOS4xNDUgMCAwMTIuOTk1IDIuMDYzIDkuMjYyIDkuMjYyIDAgMDExLjk2NyAzLjA3NyA5LjMzOSA5LjMzOSAwIDAxLTIuMTI1IDEwLjAwMyA5LjA5NCA5LjA5NCAwIDAxLTYuMzg4IDIuNjMgOS4wOTQgOS4wOTQgMCAwMS02LjM5LTIuNjMgOS4zIDkuMyAwIDAxLTIuNzU1LTYuMzk1eiIgY2xpcC1ydWxlPSJldmVub2RkIi8+PC9zdmc+Cg==&style=flat" height="25" alt="mantine logo" />
 </div>
 
 </td><td valign="top" width="33%">
