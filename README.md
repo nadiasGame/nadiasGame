@@ -42,7 +42,7 @@
 
 </td><td valign="top" width="33%">
 https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white
-
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 
 </td><td valign="top" width="33%">
